@@ -1,0 +1,156 @@
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\iSpan\Desktop\期末最終版1\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\a0981\OneDrive\桌面\期末最終版2\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\iSpan\Desktop\期末最終版2\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版\期末最終版\obj\Debug\期末最終版.歷史訂單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.歷史訂單.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\a0981\OneDrive\桌面\期末最終版 - 複製\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.歷史訂單.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\已完成期中\期末最終版\期末最終版\obj\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.歷史訂單.resources
+C:\Users\iSpan\Desktop\期末最終版\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\bin\Debug\期末最終版.exe.config
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\bin\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\bin\Debug\期末最終版.pdb
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.from1.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.FormHome.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.Form產品.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.member.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.Properties.Resources.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.Shopping_cart.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.新增商品表單.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.會員維護表單.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.歷史訂單.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.註冊會員.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.餐點配料選擇.resources
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.exe
+C:\Users\iSpan\Desktop\期中最後\期末最終版\期末最終版\obj\Debug\期末最終版.pdb

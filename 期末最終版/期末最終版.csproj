@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{980B81AB-15C1-41E9-BC9B-B7144822F093}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>期末最終版</RootNamespace>
+    <AssemblyName>期末最終版</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodeFile1.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHome.Designer.cs">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form產品.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form產品.Designer.cs">
+      <DependentUpon>Form產品.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVar.cs" />
+    <Compile Include="member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="member.Designer.cs">
+      <DependentUpon>member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shopping cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shopping cart.Designer.cs">
+      <DependentUpon>Shopping cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="新增商品表單.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="新增商品表單.Designer.cs">
+      <DependentUpon>新增商品表單.cs</DependentUpon>
+    </Compile>
+    <Compile Include="會員維護表單.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="會員維護表單.Designer.cs">
+      <DependentUpon>會員維護表單.cs</DependentUpon>
+    </Compile>
+    <Compile Include="歷史訂單.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="歷史訂單.Designer.cs">
+      <DependentUpon>歷史訂單.cs</DependentUpon>
+    </Compile>
+    <Compile Include="註冊會員.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="註冊會員.Designer.cs">
+      <DependentUpon>註冊會員.cs</DependentUpon>
+    </Compile>
+    <Compile Include="餐點配料選擇.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="餐點配料選擇.Designer.cs">
+      <DependentUpon>餐點配料選擇.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHome.resx">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form產品.resx">
+      <DependentUpon>Form產品.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="member.resx">
+      <DependentUpon>member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Shopping cart.resx">
+      <DependentUpon>Shopping cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="新增商品表單.resx">
+      <DependentUpon>新增商品表單.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="會員維護表單.resx">
+      <DependentUpon>會員維護表單.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="歷史訂單.resx">
+      <DependentUpon>歷史訂單.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="註冊會員.resx">
+      <DependentUpon>註冊會員.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="餐點配料選擇.resx">
+      <DependentUpon>餐點配料選擇.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
